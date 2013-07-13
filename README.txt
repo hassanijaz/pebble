@@ -1,0 +1,1 @@
+pebble is an attempt to make a simple, fast, intuitive project manager application 
